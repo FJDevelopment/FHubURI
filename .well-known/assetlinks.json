@@ -1,0 +1,9 @@
+[{
+  "relation": ["delegate_permission/common.handle_all_urls"],
+  "target": {
+    "namespace": "android_app",
+    "package_name": "com.example.fhub_application",
+    "sha256_cert_fingerprints":
+    ["6B:F7:5D:D4:06:FC:90:9E:AA:73:7E:52:BF:53:E9:08:60:7D:BC:FC:7B:98:BF:AA:2A:B8:38:01:C1:AE:95:94"]
+  }
+}]
